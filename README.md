@@ -1,5 +1,3 @@
-# One-Factor-Black-Scholes-in-C-
-
 # Black-Scholes Option Pricing Model - Complete Implementation in C++
 
 ## Table of Contents
